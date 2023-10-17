@@ -98,7 +98,6 @@ body{
     padding: 10px 0px;
     overflow: auto;
     height: 100%;
-    width: 40%;
 
 }
 
@@ -111,6 +110,7 @@ body{
     overflow: auto;
     display: flex;
     flex-direction: column;
+    width: 40%;
 
   }
   
