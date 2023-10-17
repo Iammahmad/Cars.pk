@@ -110,7 +110,6 @@ body{
     overflow: auto;
     display: flex;
     flex-direction: column;
-    width: 40%;
   }
   
 .card:hover {
